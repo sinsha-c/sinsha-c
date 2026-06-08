@@ -111,13 +111,10 @@ NTTF, India | 2014
 
 ---
 
-## 🌐 Connect With Me
+## Connect with me
 
-LinkedIn:
-https://www.linkedin.com/in/sinshac/
-
-GitHub:
-https://github.com/SinshaC
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinshac/)
+- 💻 [GitHub Profile](https://github.com/sinsha-c)
 
 ---
 
