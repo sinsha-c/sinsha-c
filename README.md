@@ -89,18 +89,25 @@ NTTF, India | 2014
 NTTF, India | 2014
 
 ---
+## 📈 2026 Learning Progress
 
-## 📚 Current Learning Journey
+✅ Git & GitHub
 
-- AWS Core Services
-- VPC Networking
-- IAM & Security
-- EC2 & Auto Scaling
-- Terraform
-- Docker
-- Kubernetes
-- CI/CD Pipelines
-- Amazon EKS
+✅ AWS VPC
+
+✅ EC2
+
+✅ IAM
+
+🔄 Terraform
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 Amazon EKS
+
+🔄 CI/CD Pipelines
 
 ---
 
