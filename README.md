@@ -97,6 +97,7 @@ This is what a comeback looks like when you approach it like an engineer.
 
 <div align="center">
 
+[![aws-multi-region-vpc-peering](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=aws-multi-region-vpc-peering&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea)](https://github.com/sinsha-c/aws-multi-region-vpc-peering)
 [![react-app-multi-stage-docker](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=react-app-multi-stage-docker&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea)](https://github.com/sinsha-c/react-app-multi-stage-docker)
 [![lampstack-setup-ec2](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=lampstack-setup-ec2&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea)](https://github.com/sinsha-c/lampstack-setup-ec2)
 [![ec2-nginx-webserver](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=ec2-nginx-webserver&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea)](https://github.com/sinsha-c/ec2-nginx-webserver)
