@@ -93,16 +93,63 @@ This is what a comeback looks like when you approach it like an engineer.
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| | | |
-|---|---|---|
-| [![aws-multi-region-network-architecture](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=aws-multi-region-network-architecture&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/aws-multi-region-network-architecture) | [![react-app-multi-stage-docker](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=react-app-multi-stage-docker&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/react-app-multi-stage-docker) | [![lampstack-setup-ec2](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=lampstack-setup-ec2&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/lampstack-setup-ec2) |
-| [![ec2-nginx-webserver](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=ec2-nginx-webserver&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/ec2-nginx-webserver) | [![dockerized-php-application](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=dockerized-php-application&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/dockerized-php-application) | [![git-workflow-scenarios](https://github-readme-stats.vercel.app/api/pin/?username=sinsha-c&repo=git-workflow-scenarios&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&show_description=true)](https://github.com/sinsha-c/git-workflow-scenarios) |
+### 🐳 <a href="https://github.com/sinsha-c/docker-aws-deployment">Docker AWS Deployment</a>
 
-</div>
+Production-ready deployment using **Docker**, **Docker Swarm**, and **Amazon ECR** with security scanning and deployment best practices.
+
+</td>
+
+<td width="50%">
+
+### ☁️ <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
+
+Designed a scalable and highly available AWS network architecture across multiple AWS Regions following cloud best practices.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚛️ <a href="https://github.com/sinsha-c/react-app-multi-stage-docker">React Multi-Stage Docker</a>
+
+Containerized a React application using multi-stage Docker builds for optimized production images.
+
+</td>
+
+<td>
+
+### 🌐 <a href="https://github.com/sinsha-c/ec2-nginx-webserver">EC2 Nginx Web Server</a>
+
+Configured and deployed an Nginx web server on Amazon EC2 with production-ready configuration.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐘 <a href="https://github.com/sinsha-c/dockerized-php-application">Dockerized PHP Application</a>
+
+Dockerized a PHP application with a reproducible development and deployment workflow.
+
+</td>
+
+<td>
+
+### 🔀 <a href="https://github.com/sinsha-c/git-workflow-scenarios">Git Workflow Scenarios</a>
+
+Hands-on examples covering branching strategies, merge workflows, rebasing, and collaboration using Git.
+
+</td>
+</tr>
+</table>
 
 ---
 
