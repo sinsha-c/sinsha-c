@@ -107,7 +107,7 @@ Production-ready deployment using **Docker**, **Docker Swarm**, and **Amazon ECR
 
 <td width="50%">
 
-### 🚀 <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
+### 🔄 <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
 
 Built an automated CI/CD pipeline using **Jenkins**, **GitHub Webhooks**, **Docker**, and **Amazon ECR** for continuous image build and deployment.
 
