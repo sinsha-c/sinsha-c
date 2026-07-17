@@ -107,14 +107,22 @@ Production-ready deployment using **Docker**, **Docker Swarm**, and **Amazon ECR
 
 <td width="50%">
 
-### ☁️ <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
+### 🚀 <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
 
-Designed a scalable and highly available AWS network architecture across multiple AWS Regions following cloud best practices.
+Built an automated CI/CD pipeline using **Jenkins**, **GitHub Webhooks**, **Docker**, and **Amazon ECR** for continuous image build and deployment.
 
 </td>
 </tr>
 
 <tr>
+<td>
+
+### ☁️ <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
+
+Designed a scalable and highly available AWS network architecture across multiple AWS Regions following cloud best practices.
+
+</td>
+
 <td>
 
 ### ⚛️ <a href="https://github.com/sinsha-c/react-app-multi-stage-docker">React Multi-Stage Docker</a>
@@ -122,22 +130,14 @@ Designed a scalable and highly available AWS network architecture across multipl
 Containerized a React application using multi-stage Docker builds for optimized production images.
 
 </td>
-
-<td>
-
-### 🌐 <a href="https://github.com/sinsha-c/ec2-nginx-webserver">EC2 Nginx Web Server</a>
-
-Configured and deployed an Nginx web server on Amazon EC2 with production-ready configuration.
-
-</td>
 </tr>
 
 <tr>
 <td>
 
-### 🐘 <a href="https://github.com/sinsha-c/dockerized-php-application">Dockerized PHP Application</a>
+### 🌐 <a href="https://github.com/sinsha-c/ec2-nginx-webserver">EC2 Nginx Web Server</a>
 
-Dockerized a PHP application with a reproducible development and deployment workflow.
+Configured and deployed an Nginx web server on Amazon EC2 with production-ready configuration.
 
 </td>
 
@@ -150,30 +150,6 @@ Hands-on examples covering branching strategies, merge workflows, rebasing, and 
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sinsha-c&show_icons=true&theme=github_dark&hide_border=true&title_color=a8d8ea&icon_color=a8d8ea&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinsha-c&layout=compact&theme=github_dark&hide_border=true&title_color=a8d8ea&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sinsha-c&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=a8d8ea&fire=a8d8ea&currStreakLabel=a8d8ea" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinsha-c&theme=github-compact&hide_border=true&bg_color=0d1117&color=a8d8ea&line=2c5364&point=ffffff&area=true&area_color=203a43" width="98%"/>
-
-</div>
 
 ---
 
