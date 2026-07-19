@@ -99,35 +99,35 @@ This is what a comeback looks like when you approach it like an engineer.
 <tr>
 <td width="50%">
 
-### 🐳 <a href="https://github.com/sinsha-c/docker-aws-deployment">Docker AWS Deployment</a>
+### 🚢 <a href="https://github.com/sinsha-c/ecs-multi-container-task">AWS ECS Multi-Container Task</a>
 
-Production-ready deployment using **Docker**, **Docker Swarm**, and **Amazon ECR** with security scanning and deployment best practices.
+Deployed a **multi-container application** on **Amazon ECS Fargate** with **Application Load Balancer**, **AWS Secrets Manager**, and **environment variable** configuration.
 
 </td>
 
 <td width="50%">
 
-### 🔄 <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
+### ⚙️ <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
 
-Built an automated CI/CD pipeline using **Jenkins**, **GitHub Webhooks**, **Docker**, and **Amazon ECR** for continuous image build and deployment.
+Automated the Docker build-and-release workflow using **GitHub Webhooks**, **Jenkins**, **Docker**, **Amazon ECR**, and **automated smoke testing** with zero manual pipeline execution.
 
 </td>
 </tr>
 
 <tr>
+<td>
+
+### 🐳 <a href="https://github.com/sinsha-c/docker-aws-deployment">Docker AWS Deployment</a>
+
+Built a production-ready deployment workflow using **Docker**, **Docker Swarm**, and **Amazon ECR**, including image security scanning and deployment best practices.
+
+</td>
+
 <td>
 
 ### ☁️ <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
 
-Designed a scalable and highly available AWS network architecture across multiple AWS Regions following cloud best practices.
-
-</td>
-
-<td>
-
-### ⚛️ <a href="https://github.com/sinsha-c/react-app-multi-stage-docker">React Multi-Stage Docker</a>
-
-Containerized a React application using multi-stage Docker builds for optimized production images.
+Designed a secure, scalable **multi-region AWS architecture** using **Amazon VPC**, **EC2**, **subnets**, and **VPC Peering** across multiple AWS Regions.
 
 </td>
 </tr>
@@ -135,21 +135,23 @@ Containerized a React application using multi-stage Docker builds for optimized 
 <tr>
 <td>
 
-### 🌐 <a href="https://github.com/sinsha-c/ec2-nginx-webserver">EC2 Nginx Web Server</a>
+### 🐘 <a href="https://github.com/sinsha-c/php-mysql-docker-compose-app">PHP + MySQL Docker Compose</a>
 
-Configured and deployed an Nginx web server on Amazon EC2 with production-ready configuration.
+Containerized a **PHP + MySQL** application using **Docker Compose**, enabling one-command deployment with isolated multi-container services.
 
 </td>
 
 <td>
 
-### 🔀 <a href="https://github.com/sinsha-c/git-workflow-scenarios">Git Workflow Scenarios</a>
+### 💡 <a href="https://github.com/sinsha-c/lampstack-setup-ec2">LAMP Stack on EC2</a>
 
-Hands-on examples covering branching strategies, merge workflows, rebasing, and collaboration using Git.
+Deployed a complete **LAMP (Linux, Apache, MariaDB, PHP)** stack on an **AWS EC2 Ubuntu** instance to host dynamic web applications.
 
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
