@@ -98,6 +98,23 @@ This is what a comeback looks like when you approach it like an engineer.
 <table>
 <tr>
 <td width="50%">
+  
+### 📊 <a href="https://github.com/sinsha-c/aws-cloudwatch-ec2-monitoring">AWS CloudWatch EC2 Monitoring</a>
+  
+Monitored an **EC2-hosted Nginx web server** with **AWS CloudWatch**, collecting logs and tracking key metrics, with **email alerts (SNS)** on high resource usage or failures.
+
+</td>
+  
+<td width="50%">
+
+### 🔵🟢 <a href="https://github.com/sinsha-c/blue-green-eks">Blue-Green Deployment on Amazon EKS</a>
+  
+Demonstrated **zero-downtime deployments** on **Kubernetes (Amazon EKS)** using the **Blue-Green deployment strategy** with traffic switching and rollback.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🚢 <a href="https://github.com/sinsha-c/ecs-multi-container-task">AWS ECS Multi-Container Task</a>
 
