@@ -83,11 +83,11 @@ This is what a comeback looks like when you approach it like an engineer.
 
 | Domain | Area | Status |
 |--------|------|--------|
-| ☁️ Cloud | AWS Refresh — IAM, VPC, EKS, RDS, S3, CloudWatch | `In Progress` |
+| ☁️ Cloud | AWS Refresh — IAM, VPC, EKS, RDS, S3, CloudWatch | `Active` |
 | 🏗️ IaC | Terraform Advanced — Modules, Workspaces, Remote State | `In Progress` |
 | ⚙️ Orchestration | Kubernetes Deep Dive — RBAC, Helm, Networking, GitOps | `Active` |
 | 🔄 CI/CD | GitHub Actions — Workflows, Secrets, Matrix Builds | `Active` |
-| 🔭 Observability | Prometheus + Grafana + Alerting — Production Patterns | `Planned` |
+| 🔭 Observability | Prometheus + Grafana + Alerting — Production Patterns | `In Progress` |
 | 🌐 Cloud Native | Service Mesh, ArgoCD, Karpenter, Crossplane | `Planned` |
 | 📐 Platform Eng | Internal Developer Platform Concepts, Backstage | `Planned` |
 
@@ -96,6 +96,23 @@ This is what a comeback looks like when you approach it like an engineer.
 ## Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🏗️ <a href="https://github.com/sinsha-c/terraform-mysql-rds-s3-backend">Terraform MySQL RDS + S3 Backend</a>
+
+Provisioned a **MySQL RDS instance** inside a custom **AWS VPC** using Terraform, with remote state management in **Amazon S3** and **DynamoDB state locking** for safe collaborative infrastructure management.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ <a href="https://github.com/sinsha-c/jenkins-shared-library-multi-env-pipeline">Jenkins Shared Library Multi-Env Pipeline</a>
+
+Built a reusable **Jenkins Shared Library** with common CI/CD functions for **Git checkout, Maven build, Docker build/push**, and a parameterised pipeline supporting **Dev, QA, Staging, and Production** environments.
+
+</td>
+</tr>
 <tr>
 <td width="50%">
   
