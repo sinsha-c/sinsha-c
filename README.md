@@ -84,22 +84,41 @@ This is what a comeback looks like when you approach it like an engineer.
 | Domain | Area | Status |
 |--------|------|--------|
 | ☁️ Cloud | AWS Refresh — IAM, VPC, EKS, RDS, S3, CloudWatch | `Active` |
-| 🏗️ IaC | Terraform Advanced — Modules, Workspaces, Remote State | `In Progress` |
+| 🏗️ IaC | Terraform Advanced — Modules, Workspaces, Remote State | `Active` |
 | ⚙️ Orchestration | Kubernetes Deep Dive — RBAC, Helm, Networking, GitOps | `Active` |
-| 🔄 CI/CD | GitHub Actions — Workflows, Secrets, Matrix Builds | `Active` |
-| 🔭 Observability | Prometheus + Grafana + Alerting — Production Patterns | `In Progress` |
+| 🔄 CI/CD | GitHub Actions — Workflows, Secrets, Matrix Builds | `In Progress` |
+| 🔭 Observability | Prometheus + Grafana + Alerting — Production Patterns | `Active` |
 | 🌐 Cloud Native | Service Mesh, ArgoCD, Karpenter, Crossplane | `Planned` |
 | 📐 Platform Eng | Internal Developer Platform Concepts, Backstage | `Planned` |
 
 ---
 
-## Featured Projects
+## Featured DevOps Project
+
+<table> <tr> <td>
+
+<a href="https://github.com/sinsha-c/capstone-project-devops-cicd-ecs">AWS DevOps Capstone Project – CI/CD & Blue-Green Deployment</a>
+
+Built a complete end-to-end DevOps platform on AWS covering Terraform infrastructure, Jenkins CI/CD, Docker, ECR, ECS Fargate, blue-green deployment, security scanning, and monitoring.
+
+Tech: Terraform · Ansible · Jenkins · Docker · AWS ECS · ECR · SonarQube · Trivy · Prometheus · Grafana
+
+Pipeline:
+GitHub → Jenkins → SonarQube → Docker → Trivy → ECR → ECS Fargate → ALB
+
+<a href="https://github.com/sinsha-c/capstone-project-devops-cicd-ecs">🔗 View Project →</a>
+
+</td> </tr> </table>
+
+---
+
+## Other DevOps Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ <a href="https://github.com/sinsha-c/terraform-mysql-rds-s3-backend">Terraform MySQL RDS + S3 Backend</a>
+### <a href="https://github.com/sinsha-c/terraform-mysql-rds-s3-backend">Terraform MySQL RDS + S3 Backend</a>
 
 Provisioned a **MySQL RDS instance** inside a custom **AWS VPC** using Terraform, with remote state management in **Amazon S3** and **DynamoDB state locking** for safe collaborative infrastructure management.
 
@@ -107,7 +126,7 @@ Provisioned a **MySQL RDS instance** inside a custom **AWS VPC** using Terraform
 
 <td width="50%">
 
-### ⚙️ <a href="https://github.com/sinsha-c/jenkins-shared-library-multi-env-pipeline">Jenkins Shared Library Multi-Env Pipeline</a>
+### <a href="https://github.com/sinsha-c/jenkins-shared-library-multi-env-pipeline">Jenkins Shared Library Multi-Env Pipeline</a>
 
 Built a reusable **Jenkins Shared Library** with common CI/CD functions for **Git checkout, Maven build, Docker build/push**, and a parameterised pipeline supporting **Dev, QA, Staging, and Production** environments.
 
@@ -116,7 +135,7 @@ Built a reusable **Jenkins Shared Library** with common CI/CD functions for **Gi
 <tr>
 <td width="50%">
   
-### 📊 <a href="https://github.com/sinsha-c/aws-cloudwatch-ec2-monitoring">AWS CloudWatch EC2 Monitoring</a>
+### <a href="https://github.com/sinsha-c/aws-cloudwatch-ec2-monitoring">AWS CloudWatch EC2 Monitoring</a>
   
 Monitored an **EC2-hosted Nginx web server** with **AWS CloudWatch**, collecting logs and tracking key metrics, with **email alerts (SNS)** on high resource usage or failures.
 
@@ -124,7 +143,7 @@ Monitored an **EC2-hosted Nginx web server** with **AWS CloudWatch**, collecting
   
 <td width="50%">
 
-### 🔵🟢 <a href="https://github.com/sinsha-c/blue-green-eks">Blue-Green Deployment on Amazon EKS</a>
+###  <a href="https://github.com/sinsha-c/blue-green-eks">Blue-Green Deployment on Amazon EKS</a>
   
 Demonstrated **zero-downtime deployments** on **Kubernetes (Amazon EKS)** using the **Blue-Green deployment strategy** with traffic switching and rollback.
 </td>
@@ -133,7 +152,7 @@ Demonstrated **zero-downtime deployments** on **Kubernetes (Amazon EKS)** using 
 <tr>
 <td width="50%">
 
-### 🚢 <a href="https://github.com/sinsha-c/ecs-multi-container-task">AWS ECS Multi-Container Task</a>
+### <a href="https://github.com/sinsha-c/ecs-multi-container-task">AWS ECS Multi-Container Task</a>
 
 Deployed a **multi-container application** on **Amazon ECS Fargate** with **Application Load Balancer**, **AWS Secrets Manager**, and **environment variable** configuration.
 
@@ -141,7 +160,7 @@ Deployed a **multi-container application** on **Amazon ECS Fargate** with **Appl
 
 <td width="50%">
 
-### ⚙️ <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
+### <a href="https://github.com/sinsha-c/jenkins-docker-ecr-webhook">Jenkins Docker ECR Webhook CI/CD</a>
 
 Automated the Docker build-and-release workflow using **GitHub Webhooks**, **Jenkins**, **Docker**, **Amazon ECR**, and **automated smoke testing** with zero manual pipeline execution.
 
@@ -151,7 +170,7 @@ Automated the Docker build-and-release workflow using **GitHub Webhooks**, **Jen
 <tr>
 <td>
 
-### 🐳 <a href="https://github.com/sinsha-c/docker-aws-deployment">Docker AWS Deployment</a>
+### <a href="https://github.com/sinsha-c/docker-aws-deployment">Docker AWS Deployment</a>
 
 Built a production-ready deployment workflow using **Docker**, **Docker Swarm**, and **Amazon ECR**, including image security scanning and deployment best practices.
 
@@ -159,7 +178,7 @@ Built a production-ready deployment workflow using **Docker**, **Docker Swarm**,
 
 <td>
 
-### ☁️ <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
+### <a href="https://github.com/sinsha-c/aws-multi-region-network-architecture">AWS Multi-Region Network Architecture</a>
 
 Designed a secure, scalable **multi-region AWS architecture** using **Amazon VPC**, **EC2**, **subnets**, and **VPC Peering** across multiple AWS Regions.
 
@@ -169,7 +188,7 @@ Designed a secure, scalable **multi-region AWS architecture** using **Amazon VPC
 <tr>
 <td>
 
-### 🐘 <a href="https://github.com/sinsha-c/php-mysql-docker-compose-app">PHP + MySQL Docker Compose</a>
+### <a href="https://github.com/sinsha-c/php-mysql-docker-compose-app">PHP + MySQL Docker Compose</a>
 
 Containerized a **PHP + MySQL** application using **Docker Compose**, enabling one-command deployment with isolated multi-container services.
 
@@ -177,7 +196,7 @@ Containerized a **PHP + MySQL** application using **Docker Compose**, enabling o
 
 <td>
 
-### 💡 <a href="https://github.com/sinsha-c/lampstack-setup-ec2">LAMP Stack on EC2</a>
+### <a href="https://github.com/sinsha-c/lampstack-setup-ec2">LAMP Stack on EC2</a>
 
 Deployed a complete **LAMP (Linux, Apache, MariaDB, PHP)** stack on an **AWS EC2 Ubuntu** instance to host dynamic web applications.
 
