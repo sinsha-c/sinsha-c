@@ -110,9 +110,7 @@ GitHub → Jenkins → SonarQube → Docker → Trivy → ECR → ECS Fargate �
 
 </td> </tr> </table>
 
----
-
-## Other DevOps Projects
+## Other DevOps Mini Projects
 
 <table>
 <tr>
@@ -203,8 +201,6 @@ Deployed a complete **LAMP (Linux, Apache, MariaDB, PHP)** stack on an **AWS EC2
 </td>
 </tr>
 </table>
-
----
 
 ---
 
