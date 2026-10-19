@@ -204,6 +204,16 @@ Deployed a complete **LAMP (Linux, Apache, MariaDB, PHP)** stack on an **AWS EC2
 
 ---
 
+## Certifications
+
+<a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="assets/lfs158-badge.png" width="120" alt="LFS158: Introduction to Kubernetes - The Linux Foundation">
+</a>
+
+**LFS158: Introduction to Kubernetes** · The Linux Foundation · [Verify on Credly](https://www.credly.com/badges/b73b24e8-8457-486d-b430-686f91a4047f/public_url)
+
+---
+
 ## Professional Focus
 
 ```yaml
